@@ -4,7 +4,7 @@ Created by **mrodz**, released on **5/7/2021**
 
 ## How to Play:
 Install **Java** on your computer. (Version 1.8+)
-_You can instal Java for free [HERE](http://github.com)_
+_You can instal Java for free [HERE](https://www.java.com/en/download/)_
 
 
 Step (#) | Instructions
