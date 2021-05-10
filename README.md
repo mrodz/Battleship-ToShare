@@ -14,7 +14,7 @@ Step (#) | Instructions
 3 | __^__ This can be found by typing ___cmd___ into the _Windows Search panel_.
 4 | Once open, type in the following...
 4.1 | **cd Downloads**
-4.2 | **~~javac PlayBattleship~~** *(Ignore this step if you already have the __.class__ file)
+4.2 | **~~javac PlayBattleship.java~~** *(Ignore this step if you already have the __.class__ file)
 4.3 | **java PlayBattleship.java** is the final command!
 
 ## Game Wiki
