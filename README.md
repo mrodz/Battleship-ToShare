@@ -15,7 +15,7 @@ Step (#) | Instructions
 4 | Once open, type in the following...
 4.1 | **cd Downloads**
 4.2 | **~~javac PlayBattleship~~** *(Ignore this step if you already have the __.class__ file)
-4.3 | **java PlayBattleship** is the final command!
+4.3 | **java PlayBattleship.java** is the final command!
 
 ## Game Wiki
 * To run commands in the menu, simply type your input (ie. _'help'_ or _'play'_) and press **ENTER**
