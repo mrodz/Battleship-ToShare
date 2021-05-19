@@ -622,17 +622,14 @@ final class Intro {
             String s = scanner.nextLine();
             menuClear();
             menu();
-            checkInput(prompt());
         } else if (input.toLowerCase().contains("back")) {
             menuClear();
             System.out.println("Sorry, this hasn't been added yet!");
             menu();
-            checkInput(prompt());
         } else {
             menuClear();
             System.out.printf("  Sorry, I don't know what to do with '%s'. Try again!%n%n%n", input);
             menu();
-            checkInput(prompt());
         }
     }
 
